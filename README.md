@@ -20,7 +20,7 @@ A Streamlit-based web application that uses Machine Learning to detect market re
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/karlen-tsatinyan/first-app)>
    cd <repo-name>
    ```
 
