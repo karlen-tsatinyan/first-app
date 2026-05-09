@@ -21,7 +21,7 @@ A Streamlit-based web application that uses Machine Learning to detect market re
 1. **Clone the repository:**
    ```bash
    git clone <https://github.com/karlen-tsatinyan/first-app>
-   financial-regime-tool.py
+   Fin_prediction.py
    ```
 
 2. **Install Dependencies:**
